@@ -23,4 +23,4 @@ I build full-stack web applications, relational database architectures, and ente
 
 ### Featured Capstone Project
 
-* **[Enterprise AI Support & PII Triage Engine]** — A full-stack AI triage pipeline built with Python, SQLite, and Asynchronous JavaScript that automatically sanitizes Personally Identifiable Information (PII), classifies support tickets, and logs structured records to an indexed SQL database.
+* **[Enterprise AI Support & PII Triage Engine](https://github.com/wernermoorcroft17-gif/enterprise-ai-triage-engine.git)** — A full-stack AI triage pipeline built with Python, SQLite, and Asynchronous JavaScript that automatically sanitizes Personally Identifiable Information (PII), classifies support tickets, and logs structured records to an indexed SQL database.
